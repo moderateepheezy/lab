@@ -10,10 +10,5 @@ package lab;
  */
 public class ContactGroup {
 
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-    }
+    
 }
